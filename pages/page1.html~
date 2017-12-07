@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">	
+		<title>All the Sighs</title>
+	</head>
+	
+	
+<body style="background-image:url(../images/background.jpg)"> 	
+	
+	<center><img style="width: 660px; height: 440px;" src="../images/17phitxgre.gif"></center><br>
+		
+		<div style="background-color: white; margin:10px; padding:10px;" > 
+		
+			<img style="width: 300px; height: 300px;" src="../images/sigh/sigh.jpg">
+				<p style="font-size: 9px;">this is me a lot it needs to stop</p>
+			<p>Occasionally, you may see me sigh. Sometimes I don't realize it. I'm afraid it's become like a habit. Yeah, it's that bad. <em>But what do I sigh about?</em> Wouldn't you like to know?</p>
+				<p style="font-size: 9px;">oh you do want to know</p>		
+		</div>
+			
+
+	<div style="background-color: white; margin:10px; padding:10px;" > 			
+		<center> 
+		<h2>Continue to...<br>
+			<a href="../index.html">Brain Overview</a> <br>
+			
+			<a style="color:#305930;" href="page1.1.html">Don't click</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+			<a style="color:#305930;" href="page1.5.html">Stress Room</a>
+		
+		</h2></center>
+	</div>
+		 
+	
+		
+		
+		
+		</body></html>	

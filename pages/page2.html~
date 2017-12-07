@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">	
+		<title> Aesthetics </title>	
+	</head>
+	
+<body style="background-image:url(../images/background.jpg)"> 	
+
+<center><img style="width: 660px; height: 440px;" src="../images/17phitxblue.gif"></center><br>
+	
+	
+	<div style="background-color: white; margin:10px; padding:10px;" > 		
+			<center><img src="../images/aesthetics/sparklee.gif"></center><br>
+			
+			<p>Ah, my aesthetics~ Just a few things I appreciate and like.</p>
+	</div>	
+	
+	
+	<div style="background-color: white; margin:10px; padding:10px;" > 		
+		<center> 
+		<h2>Continue to...<br>
+			<a href="../index.html">Brain Overview</a> <br>
+			
+			 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a style="color:#305930;" href="page2.1.html">Art</a> &nbsp; &nbsp; &nbsp;  
+			<a style="color:#305930;" href="page2.2.html">Entertainment</a> &nbsp; &nbsp; &nbsp;
+			<a style="color:#305930;" href="page2.3.html">2 Pretty 4 Me</a><br>
+			<a style="color:#305930;" href="page2.4.html">ATM</a>
+		
+		</h2></center>
+	</div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</body>	</html>

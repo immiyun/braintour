@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">	
+		<title>All the Sighs - Nothing to see here</title>
+	</head>
+	
+	
+<body style="background-image:url(../images/black-static.gif)"> 	
+	
+	<center><img style="width: 660px; height: 440px;" src="../images/17phitxgre.gif"></center><br>
+	
+		
+		
+		<img style="width: 300px; height: 300px;" src="../images/sigh/dontlook/nothingtoseehere.png"><br>
+		
+		
+		<p style="color: white;">Uh-oh, you're getting to a dark (and barren) area. Are you sure you want to continue? There's, um, nothing to see. Turn back. Seriously.</p>
+			
+
+	<div style="background-color: black; margin:10px; padding:10px;" > 			
+		<center> 
+		<h2 style="color: white;">Continue to...<br>
+			<a href="page1.html">Previous page</a> <br>
+			
+			<a style="color:#305930;" href="page1.2.html">Don't click</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+			<a style="color:#305930;" href="page1.3.html">Don't click</a> <br>
+			<a style="color:#305930;" href="page1.4.html">Don't click</a>
+		</h2></center>
+	</div>
+	
+	
+	
+	
+	
+	
+		 
+	 </body></html>	
